@@ -2,3 +2,18 @@ h1 {
     color: red;
     font-size: 50px;
 }
+.box {
+    width: 100%;
+    height: 100px;
+    background-color: blue;
+}
+.class {
+    display: block;
+}
+h2 {
+    color: yellow;
+    background-color: blue;
+}
+.ch {text-align: center;}
+img.cangiua {
+    display: block; margin-left: auto; margin-right: auto;}
